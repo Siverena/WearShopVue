@@ -1,0 +1,2 @@
+//= slider.js
+//= cart.js
